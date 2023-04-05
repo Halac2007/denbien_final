@@ -231,7 +231,8 @@
   flex-direction: column;
   row-gap: 20px;
   width: 30%;
-  padding: 20px 30px;
+  text-align: center;
+  padding: 20px 18px;
   border-radius: 10px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -2510,17 +2511,6 @@ input[type='submit'] {
   border-radius: 5px;
 }
 
-.wrap-present .box-present .item-present strong {
-  line-height: 1.5;
-  font-size: 1.2rem;
-}
-
-.wrap-present .box-present .item-present p {
-  line-height: 1.5;
-  font-size: 1.2rem;
-
-  text-align: justify;
-}
 .wrap-present .box-present .item-present .box-item .item-story p {
   text-align: center;
   padding: 10px;

@@ -1,0 +1,32 @@
+.wrap-oranga .box-list .card .card-text p.strong {
+  font-size: 1rem !important;
+}
+.box-detail .firts-text {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0px;
+}
+.box-detail .firts-text p {
+  text-align: center;
+}
+.box-detail .second-text {
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.box-detail .next-text .text-color {
+  color: #ff0000;
+}
+.box-detail .next-text p {
+  line-height: 1.5;
+  text-align: justify;
+  /* text-indent: 30px; */
+}
+.box-detail .last-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.box-detail .last-text .item-text {
+  text-align: center;
+}

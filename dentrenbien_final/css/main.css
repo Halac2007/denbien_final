@@ -49,8 +49,9 @@ h5 {
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   padding: 5px 0;
+  line-height: 1.5;
 }
 
 a {
@@ -1406,7 +1407,7 @@ header nav ul ul li a:hover {
 }
 
 .wrap-oranga .box-list .card .card-text .title {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .wrap-oranga .box-list .card .card-text .des {
